@@ -1,0 +1,49 @@
+# Java
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+java_pid*
+*.hprof
+*.heap
+*.dmp
+*.tmp
+
+# Build outputs
+/build/
+/out/
+/bin/
+/dist/
+/build-reports/
+
+# Test/coverage
+/build/reports/
+/build/test-results/
+/build/jacoco/
+/coverage/
+
+# Gradle
+.gradle/
+**/.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+gradle-app.setting
+
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
