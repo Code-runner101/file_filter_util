@@ -12,8 +12,6 @@
 ```bash
 git clone https://github.com/username/file-filter-utility.git
 cd file-filter-utility
-./gradlew clean build
-java -jar build/libs/file-filter-utility.jar -s -a -p sample- in1.txt in2.txt
 ```
 
 ## Сборка
