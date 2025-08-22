@@ -8,6 +8,14 @@
 - **Java 17** (JDK 17)
 - **Gradle 8+** (Kotlin DSL)
 
+## Клонирование
+```bash
+git clone https://github.com/username/file-filter-utility.git
+cd file-filter-utility
+./gradlew clean build
+java -jar build/libs/file-filter-utility.jar -s -a -p sample- in1.txt in2.txt
+```
+
 ## Сборка
 ```bash
 ./gradlew clean build
