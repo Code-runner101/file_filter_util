@@ -15,6 +15,12 @@ cd file_filter_util
 ```
 
 ## Сборка
+# Под Windows
+```bash
+gradlew.bat clean build
+```
+
+# Под Mac/Linux
 ```bash
 ./gradlew clean build
 ```
