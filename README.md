@@ -10,7 +10,7 @@
 
 ## Клонирование
 ```bash
-git clone https://github.com/username/file-filter-utility.git
+git clone https://github.com/Code-runner101/file-filter-utility.git
 cd file-filter-utility
 ```
 
